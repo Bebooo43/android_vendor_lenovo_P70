@@ -105,6 +105,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/P70/proprietary/bin/gsm0710muxdmd2:system/bin/gsm0710muxdmd2 \
     vendor/lenovo/P70/proprietary/bin/mtkrild:system/bin/mtkrild \
     vendor/lenovo/P70/proprietary/bin/mtkrildmd2:system/bin/mtkrildmd2 \
+    vendor/lenovo/P70/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/lenovo/P70/proprietary/etc/bluetooth/auto_pair_blacklist.conf:system/etc/bluetooth/auto_pair_blacklist.conf \
     vendor/lenovo/P70/proprietary/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
     vendor/lenovo/P70/proprietary/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
